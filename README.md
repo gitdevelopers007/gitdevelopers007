@@ -58,6 +58,7 @@ A cinematic frontend web experience built with immersive scrolling and animation
 
 ### 🔹 Stack Hologram
 An interactive futuristic project focused on visualizing tech stacks, concepts, or digital experiences in a hologram-style interface.
+
 ---
 
 ## 🌱 Currently Working On
