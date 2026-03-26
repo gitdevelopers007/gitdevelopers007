@@ -1,13 +1,12 @@
 # Hi, I'm Sai Ganesh 👋
 
-### Frontend Developer • AI Builder • Rapid Prototyper
+### Full Stack Developer • AI Builder • Rapid Prototyper
 
 🚀 Building AI-powered web and mobile products  
 🎯 Focused on Computer Vision, LLM apps, and product-style UI  
 📍 India  
 
 ---
-
 ## 👨‍💻 About Me
 
 - 💡 I enjoy turning ideas into working products quickly
