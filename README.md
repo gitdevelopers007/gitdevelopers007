@@ -1,76 +1,14 @@
-# Hi, I'm Sai Ganesh 👋
+# 💫 About Me:
+# Hi, I'm Sai Ganesh 👋<br><br>### Full Stack Developer • AI Builder • Rapid Prototyper<br><br>🚀 Building AI-powered web and mobile products  <br>🎯 Focused on Computer Vision, LLM apps, and product-style UI  <br>📍 India  <br><br>---<br>## 👨‍💻 About Me<br><br>- 💡 I enjoy turning ideas into working products quickly<br>- 🛠️ I build hackathon-ready AI, web, and mobile projects<br>- 📚 Currently learning by building real-world applications<br>- 🎯 Goal: Build standout projects and grow as a strong product engineer<br><br>---<br><br>## Exploring<br>- Deep Learning<br>- LLM Apps<br>- Computer Vision<br>- AI Product Design<br><br>---<br><br>## 🌱 Currently Working On<br><br>- AI hackathon projects<br>- Computer Vision apps<br>- Better UI/UX for AI tools<br>- Building cleaner and stronger GitHub projects<br><br>---<br><br>## 
 
-### Full Stack Developer • AI Builder • Rapid Prototyper
 
-🚀 Building AI-powered web and mobile products  
-🎯 Focused on Computer Vision, LLM apps, and product-style UI  
-📍 India  
+## 🌐 Socials:
+📫 Connect With Me<br>- LinkedIn: www.linkedin.com/in/sai-ganesh-b4637736b<br>- Email: psg210107@gmail.com<br>
 
----
-## 👨‍💻 About Me
-
-- 💡 I enjoy turning ideas into working products quickly
-- 🛠️ I build hackathon-ready AI, web, and mobile projects
-- 📚 Currently learning by building real-world applications
-- 🎯 Goal: Build standout projects and grow as a strong product engineer
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=gitdevelopers007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gitdevelopers007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## ⚙️ Tech Stack
-
-### Languages
-- Python
-- JavaScript
-- Dart
-- HTML
-- CSS
-
-### Frameworks & Tools
-- React
-- Flutter
-- Streamlit
-- OpenCV
-- Git & GitHub
-- VS Code
-
-### Exploring
-- Deep Learning
-- LLM Apps
-- Computer Vision
-- AI Product Design
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 NoveLinkHub
-A modern platform built to connect, organize, and showcase useful links and resources in one place.
-
-### 🔹 Deepfake KYC Detection
-AI-powered system to detect fake identities and spoofing attempts in banking KYC.
-
-### 🔹 SmartLLM Gateway
-A dashboard to compare multiple LLMs based on cost, latency, and output quality.
-
-### 🔹 Journey to Mars
-A cinematic frontend web experience built with immersive scrolling and animations.
-
-### 🔹 Stack Hologram
-An interactive futuristic project focused on visualizing tech stacks, concepts, or digital experiences in a hologram-style interface.
-
----
-
-## 🌱 Currently Working On
-
-- AI hackathon projects
-- Computer Vision apps
-- Better UI/UX for AI tools
-- Building cleaner and stronger GitHub projects
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/gitdevelopers007
-- LinkedIn: www.linkedin.com/in/sai-ganesh-b4637736b
-- Email: psg210107@gmail.com
