@@ -1,7 +1,21 @@
 # 💫 About Me:
-# Hi, I'm Sai Ganesh 👋<br><br>### Full Stack Developer • AI Builder • Rapid Prototyper<br><br>🚀 Building AI-powered web and mobile products  <br>🎯 Focused on Computer Vision, LLM apps, and product-style UI  <br>📍 India  <br><br>---<br>## 👨‍💻 About Me<br><br>- 💡 I enjoy turning ideas into working products quickly<br>- 🛠️ I build hackathon-ready AI, web, and mobile projects<br>- 📚 Currently learning by building real-world applications<br>- 🎯 Goal: Build standout projects and grow as a strong product engineer<br><br>---<br><br>## Exploring<br>- Deep Learning<br>- LLM Apps<br>- Computer Vision<br>- AI Product Design<br><br>---<br><br>## 🌱 Currently Working On<br><br>- AI hackathon projects<br>- Computer Vision apps<br>- Better UI/UX for AI tools<br>- Building cleaner and stronger GitHub projects<br><br>---<br><br>## 
-
-
+ Hi, I'm Sai Ganesh 👋
+Full Stack Developer • AI Builder • Rapid Prototyper
+🚀 Building AI-powered web and mobile products  
+🎯 Focused on Computer Vision, LLMs, and modern AI applications  
+📍 India
+---
+👨‍💻 About Me
+I'm a Computer Science Engineering student passionate about building real-world software and AI-powered applications. I enjoy turning ideas into products through projects, hackathons,
+and continuous learning. From full-stack web development to AI and mobile applications, I'm always exploring new technologies and building solutions that create real impact.
+---
+## 🚀 Exploring
+- Deep Learning
+- Large Language Models (LLMs)
+- Computer Vision
+- AI Product Development
+- Cloud Technologies
+---
 ## 🌐 Socials:
 📫 Connect With Me<br>- LinkedIn: www.linkedin.com/in/sai-ganesh-b4637736b<br>- Email: psg210107@gmail.com<br>
 
