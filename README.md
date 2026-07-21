@@ -37,7 +37,3 @@ and continuous learning. From full-stack web development to AI and mobile applic
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitdevelopers007&theme=github-dark&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gitdevelopers007&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
