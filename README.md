@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Sai Ganesh 👋 <br><br>Full Stack Developer • AI Builder • Rapid Prototyper <br><br>
+ Hi, I'm Sai Ganesh 👋 <br><br> Full Stack Developer • AI & ML Builder • LLMs & Open-Source • Rapid Prototyper <br><br>
 🚀 Building AI-powered web and mobile products  
 🎯 Focused on Computer Vision, LLMs, and modern AI applications  
 📍 India
